@@ -1,0 +1,142 @@
+div.Kriti_row{
+    height:40px;
+    border:2px solid b#fff;
+}
+div.Kriti_row > div{
+    height: 100%;
+    border: 2px solid #fff;
+    background: skyblue;
+}
+div.kriti2{
+    height: 40px;
+    border:2px solid b#fff;
+}
+div.kriti2 > div{
+    height: 100%;
+    border: 2px solid #fff;
+    background: green;
+}
+div.kriti3{
+    height: 40px;
+    border:2px solid b#fff;
+}
+div.kriti3 > div{
+    height: 100%;
+    border: 2px solid #fff;
+    background: magenta;
+}
+div.kriti4{
+    height: 40px;
+    border:2px solid b#fff;
+}
+div.kriti4 > div{
+    height: 100%;
+    border: 2px solid #fff;
+    background: maroon;
+}
+div.kriti5{
+    height: 40px;
+    border:2px solid b#fff;
+}
+div.kriti5 > div{
+    height: 100%;
+    border: 2px solid #fff;
+    background: blue;
+}
+div.kriti6{
+    height: 40px;
+    border:2px solid b#fff;
+}
+div.kriti6 > div{
+    height: 100%;
+    border: 2px solid #fff;
+    background: red;
+}
+div.kriti7{
+    height: 40px;
+    border:2px solid b#fff;
+}
+div.kriti7 > div{
+    height: 100%;
+    border: 2px solid #fff;
+    background: purple;
+}
+div.kriti8{
+    height: 40px;
+    border:2px solid b#fff;
+}
+div.kriti8 > div:first-child{
+    height: 100%;
+    border: 2px solid #fff;
+    background: rgb(3, 134, 151);
+}
+div.kriti8 > div:first-child{
+    height: 100%;
+    border: 2px solid #fff;
+    background: rgb(3, 134, 151);
+}
+div.kriti8 > div:first-child{
+    height: 100%;
+    border: 2px solid #fff;
+    background: rgb(3, 134, 151);
+}
+div.kriti8 > div:first-child{
+    height: 100%;
+    border: 2px solid #fff;
+    background: rgb(3, 134, 151);
+}
+div.kriti8 > div:nth-child(2){
+    height: 100%;
+    border: 2px solid #fff;
+    background: tomato;
+}
+div.kriti8 > div:nth-child(3){
+    height: 100%;
+    border: 2px solid #fff;
+    background: aqua;
+}
+div.kriti8 > div:nth-child(4){
+    height: 100%;
+    border: 2px solid #fff;
+    background: rgb(133, 226, 45);
+}
+div.kriti8 > div:nth-child(5){
+    height: 100%;
+    border: 2px solid #fff;
+    background: rgb(121, 7, 228);
+}
+div.kriti8 > div:nth-child(6){
+    height: 100%;
+    border: 2px solid #fff;
+    background: purple;
+}
+div.kriti8 > div:nth-child(7){
+    height: 100%;
+    border: 2px solid #fff;
+    background: maroon;
+}
+div.kriti8 > div:nth-child(8){
+    height: 100%;
+    border: 2px solid #fff;
+    background: yellow;
+}
+div.kriti8 > div:nth-child(9){
+    height: 100%;
+    border: 2px solid #fff;
+    background: magenta;
+}
+div.kriti8 > div:nth-child(10){
+    height: 100%;
+    border: 2px solid #fff;
+    background: blue;
+}
+div.kriti8 > div:nth-child(11){
+    height: 100%;
+    border: 2px solid #fff;
+    background: green;
+}
+div.kriti8 > div:last-child{
+    height: 100%;
+    border: 2px solid #fff;
+    background: red;
+}
